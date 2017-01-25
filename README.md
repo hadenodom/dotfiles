@@ -11,6 +11,6 @@ i3 TODO:
 * update bar configuration
 
 other TODO:
-upload colorscheme
-upload irssi config
-upload mopidy configs
+* upload colorscheme
+* upload irssi config
+* upload mopidy configs
