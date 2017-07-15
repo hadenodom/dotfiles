@@ -1,12 +1,5 @@
-# ----------
-# Royal Sky
-# ----------
-# Diki Ananta
-# e: diki1aap@gmail.com
-# dikiaap @ freenode & github
-# i3 config file (v4)
+# This i3 config has been hobbled together from at least two i3 configs found on dotshare.  Along with some stuff I added.  Any resemblance to another config is probably not coincidental. 
 
-# ladies and gentlement, start your engines..
 exec volumeicon
 exec nm-applet
 #exec nitrogen --restore
